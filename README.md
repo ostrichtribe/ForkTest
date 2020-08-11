@@ -1,9 +1,17 @@
 # ForkTest
 it's test fork
 
-student write
+student writet
 
 
 forker edit
+
+
+student only edit
+
+
+
+
+
 
 
